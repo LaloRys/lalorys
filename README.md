@@ -9,9 +9,9 @@
 
 - 📫 Cómo contactarme **islalorys@gmail.com**
 
-- 📄 Conoce mis experiencias [Desarrolló proyectos web y también con python desde programas de escritorio hasta páginas web desde el backend hasta el front, en proyectos python con librerías OpenCV, Yolo, TensorFlow, cosas basadas en visión artificial.](Desarrolló web proyectos y también con python desde programas de escritorio hasta páginas web desde el backend hasta el frente, en proyectos de python con bibliotecas OpenCV, Yolo, TensorFlow, cosas basadas en visión artificial.) - ⚡ Dato curioso **https://pixabay-
+- 📄 Conoce mis experiencias [Desarrolló proyectos web y también con python desde programas de escritorio hasta páginas web desde el backend hasta el front, en proyectos python con librerías OpenCV, Yolo, TensorFlow, cosas basadas en visión artificial.](Desarrolló web proyectos y también con python desde programas de escritorio hasta páginas web desde el backend hasta el frente, en proyectos de python con bibliotecas OpenCV, Yolo, TensorFlow, cosas basadas en visión artificial.)
 
-app- production.up.railway.app/**
+- ⚡ Dato curioso **https://pixabay-app-production.up.railway.app/**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
