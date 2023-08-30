@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Mexico</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Svelte, PostgreSQL, TypeScript<br>💬 Ask me about React, MongoDB, Python, JavaScript<br>⚡ Fun fact https://pixabay-app-production.up.railway.app/
+🌱 I’m currently learning Svelte, PostgreSQL, TypeScript<br>💬 Ask me about React, MongoDB, Python, JavaScript<br>⚡ Fun fact [https://goo.su/nh3ns]
 
 
 # 💻 Tech Stack:
